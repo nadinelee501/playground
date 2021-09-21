@@ -1,5 +1,4 @@
-# Playground for PP3 
-Katherine: Nice to meet you Nadi
+# Playground with Nadine and Katherine!!! Yay!!
 
 A place to play with `git`.
 
